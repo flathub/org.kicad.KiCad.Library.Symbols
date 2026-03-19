@@ -27,6 +27,6 @@ modules:
             | .created_at'
           is-main-source: true
           versions:
-            <: 9.99.0
+            <: 10.99.0
       - type: file
         path: org.kicad.KiCad.Library.Symbols.metainfo.xml
